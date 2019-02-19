@@ -1,4 +1,4 @@
-ArrayList和Vector有什么区别？HashMap和HashTable有什么区别？StringBuilder和StringBuffer有什么区别？
+1.ArrayList和Vector有什么区别？HashMap和HashTable有什么区别？StringBuilder和StringBuffer有什么区别？
   回答是：ArrayList是非线程安全的，Vector是线程安全的；
          HashMap是非线程安全的，HashTable是线程安全的；
          StringBuilder是非线程安全的，StringBuffer是线程安全的。
